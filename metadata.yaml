@@ -8,6 +8,9 @@ contributor:
     deathdate: 1918
     gutenberg_agent_id: '33122'
     url: http://www.gutenberg.org/2009/agents/33122
+covers:
+- cover_type: archival
+  image_path: 71842-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Chipiez, Charles
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '33120'
     url: http://www.gutenberg.org/2009/agents/33120
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71842#A-history-of-art-in-Chald0xe6a-Assyria-Vol-II-of-2
 gutenberg_issued: '2023-10-09'
 identifiers:
   gutenberg: '71842'
